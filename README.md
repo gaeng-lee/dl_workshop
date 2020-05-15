@@ -1,2 +1,2 @@
 # dl_workshop
-workshop for learning Deep learning
+workshop for practice Deep learning
